@@ -27,3 +27,10 @@ body {
     padding: 5px 10px;
     display: block;
 }
+
+.centro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px;
+}
